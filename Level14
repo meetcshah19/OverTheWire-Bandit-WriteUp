@@ -1,0 +1,3 @@
+bandit14@localhost -i sshkey.private -p 2220
+-i is used to login using private key
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e

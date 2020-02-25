@@ -1,0 +1,5 @@
+use xxd to reverse hexdump
+use file command to determin compression type
+the rename with correct extension
+uncompress using corresponding command for compression gzip,tar,bzip2 etc etc
+8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL

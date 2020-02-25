@@ -1,0 +1,5 @@
+ssh bandit18@bandit.labs.overthewire.org -p 2220 ls
+this runs ls command and output shows readme file and then exit is executed
+
+ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme
+IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
